@@ -1,0 +1,8 @@
+- name: "GiftSwap (Secret Santa)"
+  technologies: "Rails"
+
+- name: "Imdb Clone"
+  technologies: "React Front-end/ Rails Backend"
+
+- name: "Recipe Manager"
+  technologies: "Full Rails"  
